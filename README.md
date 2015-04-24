@@ -3,6 +3,7 @@ A Visual Studio Project to simulate the Vicsek Model with a UI.
 The project is implemented using QT.
 
 Compiler Process::
+
 Change the directory to current dir.
 
 1.>qmake -project
